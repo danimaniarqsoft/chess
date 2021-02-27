@@ -1,0 +1,66 @@
+[Event "Computer chess game"]
+[Site "danimani"]
+[Date "2021.02.27"]
+[Round "?"]
+[White "daniel"]
+[Black "daniel"]
+[Result "*"]
+[BlackElo "2400"]
+[ECO "C54"]
+[Opening "Giuoco Pianissimo"]
+[Time "11:24:45"]
+[Variation "5.d3 d6 6.O-O O-O"]
+[WhiteElo "2400"]
+[TimeControl "120+6"]
+[Termination "unterminated"]
+[PlyCount "24"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 d6 6. O-O O-O 7. Nbd2 a6 8.
+Re1 Ba7 9. Bb3 Be6 10. Nf1 Bxb3 11. Qxb3 Qd7 12. Ng3 Rfe8 *
+
+[Event "Computer chess game"]
+[Site "danimani"]
+[Date "2021.02.27"]
+[Round "?"]
+[White "daniel"]
+[Black "daniel"]
+[Result "*"]
+[BlackElo "2400"]
+[ECO "C50"]
+[Opening "Italian"]
+[Time "11:24:45"]
+[Variation "Blackburne-Shilling Gambit"]
+[WhiteElo "2400"]
+[TimeControl "120+6"]
+[Termination "normal"]
+[PlyCount "24"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 (3. .. Nd4 4. Nxe5 Qg5 5. Nxf7 Qxg2 6. Rf1
+Qxe4+ 7. Be2 Nf3#) 4. c3 Nf6 5. d3 d6 6. O-O O-O 7. Nbd2 a6 8. Re1 Ba7 9.
+Bb3 Be6 10. Nf1 Bxb3 11. Qxb3 Qd7 12. Ng3 Rfe8 *
+
+[Event "Computer chess game"]
+[Site "danimani"]
+[Date "2021.02.27"]
+[Round "?"]
+[White "daniel"]
+[Black "daniel"]
+[Result "*"]
+[BlackElo "2400"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[Time "13:27:22"]
+[Variation "1.e4 e5"]
+[WhiteElo "2400"]
+[TimeControl "120+6"]
+[Termination "unterminated"]
+[PlyCount "6"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 *
+
