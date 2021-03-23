@@ -59,3 +59,18 @@ Ngxe5 8. axb4 Nd3# 0-1
 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nge7 5. Nc3 g6 6. Bg5 Bg7 7. Nd5
 Bxd4 8. Qxd4 Nxd4 9. Nf6+ Kf8 10. Bh6# 1-0
 
+[Event "Porz 28op"]
+[Site "8"]
+[Date "1992.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "0-1"]
+[White "Stephan Broehl"]
+[Black "Karl Heinz Balduan"]
+[ECO "C46"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "18"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Bc5 4.Nxe5 Bxf2+ 5.Kxf2 Nxe5 6.d4 Qf6+
+7.Kg1 Nc6 8.e5 Nxe5 9.dxe5 Qb6+ 0-1
