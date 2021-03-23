@@ -28,7 +28,8 @@
 
 1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Nf6 5.Qe2 Bg4 6.g3 Nbd7
 7.Nd6# 1-0
-[Event "Computer chess game"]
+
+[Event "2.6 página 37"]
 [Site "danimani"]
 [Date "2021.03.23"]
 [Round "?"]
@@ -38,15 +39,23 @@
 [BlackElo "2400"]
 [ECO "A52"]
 [Opening "Budapest Defence"]
-[Time "00:36:33"]
 [Variation "Rubinstein, Main Line, 6.Nbd2"]
 [WhiteElo "2400"]
-[TimeControl "120+6"]
-[Termination "normal"]
-[PlyCount "16"]
-[WhiteType "human"]
-[BlackType "human"]
 
 1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Nc6 5. Bf4 Bb4+ 6. Nbd2 Qe7 7. a3
 Ngxe5 8. axb4 Nd3# 0-1
+
+[Event "2.6 página 37"]
+[Site "danimani"]
+[Date "2021.03.23"]
+[Round "?"]
+[White "daniel"]
+[Black "daniel"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "4.Nxd4"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nge7 5. Nc3 g6 6. Bg5 Bg7 7. Nd5
+Bxd4 8. Qxd4 Nxd4 9. Nf6+ Kf8 10. Bh6# 1-0
 
