@@ -1,0 +1,52 @@
+[Event "Przepiorka Memorial"]
+[Site "Szczawno-Zdroj POL"]
+[Date "1950.07.02"]
+[EventDate "?"]
+[Round "11"]
+[Result "1-0"]
+[White "Keres"]
+[Black "Arlamowski"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "11"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Nf6 5.Qe2 Nbd7 6.Nd6# 1-0
+
+[Event "Saint John II"]
+[Site "Saint John II"]
+[Date "1988.??.??"]
+[EventDate "?"]
+[Round "?"]
+[Result "1-0"]
+[White "Fabio La Rota"]
+[Black "J. Sarwer"]
+[ECO "B10"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "13"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Nf6 5.Qe2 Bg4 6.g3 Nbd7
+7.Nd6# 1-0
+[Event "Computer chess game"]
+[Site "danimani"]
+[Date "2021.03.23"]
+[Round "?"]
+[White "daniel"]
+[Black "daniel"]
+[Result "0-1"]
+[BlackElo "2400"]
+[ECO "A52"]
+[Opening "Budapest Defence"]
+[Time "00:36:33"]
+[Variation "Rubinstein, Main Line, 6.Nbd2"]
+[WhiteElo "2400"]
+[TimeControl "120+6"]
+[Termination "normal"]
+[PlyCount "16"]
+[WhiteType "human"]
+[BlackType "human"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. Nf3 Nc6 5. Bf4 Bb4+ 6. Nbd2 Qe7 7. a3
+Ngxe5 8. axb4 Nd3# 0-1
+
